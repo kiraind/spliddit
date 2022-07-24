@@ -1,5 +1,5 @@
 {
-  "name": "spliddit",
+  "name": "@kiraind/spliddit",
   "version": "2.1.1",
   "description": "unicode-aware string splitting",
   "main": "./dist/index.js",
@@ -9,7 +9,7 @@
     "test": "tsc && node dist/index.spec.js",
     "lint": "ts-standard"
   },
-  "author": "sdot (Justin Sippel)",
+  "author": "sdot (Justin Sippel), kiraind",
   "keywords": [
     "unicode",
     "string",
@@ -17,7 +17,7 @@
     "spliddit"
   ],
   "license": "MIT",
-  "repository": "https://github.com/essdot/spliddit.git",
+  "repository": "https://github.com/kiraind/spliddit.git",
   "devDependencies": {
     "@types/tape": "^4.13.2",
     "tape": "^4.2.0",
